@@ -4,7 +4,7 @@ from tkinter import * # Python 实现GUI界面的包
 from math import sin, cos, pi, log
 import random
 import time
-
+#试试可以修改不，并直接通过git上传
 CANVAS_WIDTH = 640
 CANVAS_HEIGHT = 480
 CANVAS_CENTER_X = CANVAS_WIDTH / 2
